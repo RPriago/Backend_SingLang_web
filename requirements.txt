@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+mediapipe
+pydantic
+python-multipart
+scikit-learn
+gtts
+pygame
